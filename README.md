@@ -1,6 +1,6 @@
 # What does it do?
 
->This is a Python script which prompts and forces the user to input the name 'Heisenberg'.
+>This is a Python script which prompts the user until the name 'Heisenberg' is inputted.
 
 
 ## Personal Info
