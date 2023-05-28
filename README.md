@@ -6,8 +6,6 @@
 ## Personal Info
 ---
 
-![image](1amASK.jpg)
-
 Some Links:
 - [GitHub](https://github.com/1amASK)
 - [Codewars](https://www.codewars.com/users/1amASK)
