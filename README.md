@@ -1,5 +1,5 @@
 # What does it do?
->This is a Python rpogram which prompts the user until the name 'Heisenberg' is inputted.
+>This is a Python program which prompts the user until the name 'Heisenberg' is inputted.
 ## Personal Info
 ---
 Some Links:
