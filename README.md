@@ -1,11 +1,7 @@
 # What does it do?
-
->This is a Python script which prompts the user until the name 'Heisenberg' is inputted.
-
-
+>This is a Python rpogram which prompts the user until the name 'Heisenberg' is inputted.
 ## Personal Info
 ---
-
 Some Links:
 - [GitHub](https://github.com/1amASK)
 - [Codewars](https://www.codewars.com/users/1amASK)
